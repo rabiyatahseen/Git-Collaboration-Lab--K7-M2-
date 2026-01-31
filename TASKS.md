@@ -1,4 +1,4 @@
 \#project tasks
 
-Task 1: Setup GitHub repository with README and documentation
+Task 1: Setup Repository and Documentation — MAIN VERSION
 
