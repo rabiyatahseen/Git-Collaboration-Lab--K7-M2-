@@ -1,4 +1,4 @@
 \#project tasks
 
-Task 1: Initialize repository and create full project documentation
+Task 1: Setup Repository and Documentation — CONFLICT VERSION
 
